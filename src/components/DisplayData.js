@@ -11,4 +11,4 @@ class DisplayData extends React.Component {
   }
 }
  
-export default DisplayData
+export default DisplayData;
